@@ -65,7 +65,7 @@ function Mywork() {
                             <h1 className=' font-bold'>Read more... </h1>
                         </div></div>
                 </div>
-                    <button className='mt-5 border border-gray-500 px-10 py-5 rounded-full'>Show more...</button>
+                    <button className='mb-5 mt-5 border border-gray-500 px-10 py-5 rounded-full'>Show more...</button>
             </div>
         </div>
     )

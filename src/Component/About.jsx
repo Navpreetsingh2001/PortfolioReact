@@ -5,7 +5,8 @@ import img from '../assets/img.png'
 import Html from '../assets/html.png'
 import project from '../assets/project.png'
 import graduation from '../assets/graduation.png'
-import Navbar from './Navbar'
+import mongoDb from '../assets/MongoDB.png'
+import postman from '../assets/Postman.png'
 
 function About() {
     return (
@@ -21,8 +22,8 @@ function About() {
                 </div>
                 <div className='w-3/4  h-[20%]  px-32 py-10'>
                     <div className='flex '>
-
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse et velit aut nihil maiores aspernatur hic libero voluptatem nisi soluta non, nesciunt eligendi. Exercitationem quis quidem debitis itaque fugiat corrupti.
+                    Aspiring software developer with a strong foundation in frontend and backend technologies, passionate about creating dynamic web applications. Experienced in React.js, database management, and Android development, with a proven ability to deliver user-friendly solutions.
+                    
                     </div>
                     <div className='h-full flex justify-between mt-12'>
                         <div className='p-3   h-60 w-[30%] rounded-xl flex justify-center items-center flex-col shadow-2xl hover:scale-110 hover:shadow-purple-500 transition ease-in-out  '>
@@ -45,10 +46,11 @@ function About() {
                     <div className=''>
                         <h1 className='my-5'>Tools i use</h1>
                         <div className=' h-20 flex'>
-                            <img className='border border-gray-400 h-20 w-20  rounded-md hover:scale-110 shadow-md hover:shadow-black transition ease-in-out' src={vs} alt="" />
-                            <img className='border border-gray-400 h-20 w-20 rounded-md mx-4 hover:scale-110 shadow-md hover:shadow-black transition ease-in-out' src={git} alt="" />
+                            <img className='border border-gray-400 h-20 w-20  rounded-md hover:scale-110 shadow-md hover:shadow-black transition ease-in-out' src={mongoDb} alt="" />
+                            <img className='border border-gray-400 h-20 w-20 rounded-md mx-4 hover:scale-110 shadow-md hover:shadow-black transition ease-in-out' src={postman} alt="" />
                             <img className='border border-gray-400 h-20 w-20 rounded-md hover:scale-110 shadow-md hover:shadow-black transition ease-in-out ' src={vs} alt="" />
                             <img className='border border-gray-400 h-20 w-20 rounded-md mx-4 hover:scale-110 shadow-md hover:shadow-black transition ease-in-out' src={git} alt="" />
+                            
                         </div>
                     </div>
                     

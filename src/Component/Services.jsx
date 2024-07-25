@@ -17,7 +17,7 @@ function Services() {
                     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit earum ducimus inventore fugit voluptates explicabo reprehenderit, esse doloribus cumque quidem qui. Placeat nobis quam voluptas magnam laboriosam, quidem odit non?
                     </p>
                 </div>
-                <div className=' w-full flex justify-between'>
+                <div className=' w-full flex justify-between mb-32'>
                     <div className=' p-10 h-72 w-[30%] m-5 rounded-xl shadow-xl shadow-purple-500 hover:scale-110 transition duration-1000'>
                         <div>
                             <img src={global} alt="" />
@@ -36,7 +36,7 @@ function Services() {
                             <img src={android} alt="" />
                         </div>
                         <div className='mb-4'>
-                            <h1 className='text-xl font-bold'>Web design</h1>
+                            <h1 className='text-xl font-bold'>Android</h1>
                             <br />
                             Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, libero.
                         </div>
@@ -49,7 +49,7 @@ function Services() {
                             <img src={ux} alt="" />
                         </div>
                         <div className='mb-4'>
-                            <h1 className='text-xl font-bold'>Web design</h1>
+                            <h1 className='text-xl font-bold'>UX/UI</h1>
                             <br />
                             Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, libero.
                         </div>
@@ -61,7 +61,7 @@ function Services() {
                             <img src={graphics} alt="" />
                         </div>
                         <div className='mb-4'>
-                            <h1 className='text-xl font-bold'>Web design</h1>
+                            <h1 className='text-xl font-bold'>Graphics</h1>
                             <br />
                             Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, libero.
                         </div>

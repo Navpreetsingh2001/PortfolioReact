@@ -19,7 +19,7 @@ function Contact() {
 
                 </div>
                 <div>
-                    <button className='border
+                    <button className='border mb-10
                      border-gray-600 px-12 py-5 rounded-full text-white bg-gray-600' onClick={alert("Not working yet")}>Submit now</button>
                 </div>
             </div>
