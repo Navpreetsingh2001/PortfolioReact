@@ -14,7 +14,7 @@ function About() {
         
         <div className='flex flex-col   p-10'>
             <h1 className='flex justify-center text-2xl mb-3 '>Introduction</h1>
-            <h1 className='text-6xl flex justify-center'>About me</h1>
+            <h1 className='text-6xl flex justify-center animate-bounce'>About me</h1>
             <div className=' flex '>
                 <div className='w-1/3  flex  rounded-md '>
                         <img className='relative shadow-xl rounded-xl hover:scale-110 shadow-gray-700 transition ease-in-out ' src={img} alt="" />

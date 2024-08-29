@@ -10,7 +10,7 @@ function Services() {
             <div className=' w-[80%] flex flex-col justify-center items-center'>
 
                     <h3 className='text-xl'>What i offer</h3>
-                    <h1 className='text-6xl mb-5'>My Services</h1>
+                    <h1 className='text-6xl mb-5 animate-bounce'>My Services </h1>
                 <div className='w-full flex justify-center items-center text-center mb-10'>
 
                     <p>

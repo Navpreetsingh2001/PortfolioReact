@@ -6,7 +6,7 @@ function Contact() {
          mt-20 flex justify-center items-center'>
             <div className='w-[50%]    flex flex-col justify-center items-center'>
                 <h3 className='mb-4'>Connect with us</h3>
-                <h1 className='text-6xl mb-5'>Get in Touch</h1>
+                <h1 className='text-6xl mb-5 animate-bounce'>Get in Touch</h1>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate, sed.</p>
 
                 <div className= 'w-full flex justify-between my-10 '>

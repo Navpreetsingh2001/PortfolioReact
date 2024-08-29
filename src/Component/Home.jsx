@@ -9,7 +9,7 @@ function Home() {
         <div className='p-12 m-12 flex justify-center items-center'>
 
             <div className='  w-[70%] h-4/5  flex justify-center items-center flex-col'>
-                    <div className='rounded-[50%]   mb-3'><img className='h-40 shadow-xl rounded-full hover:scale-110 shadow-purple-400 transition ease-in-out' src={Man} alt="" /></div>
+                    <div className='rounded-[50%]   mb-3'><img className='h-40 shadow-xl rounded-full hover:scale-110 hover:shadow-purple-400 transition ease-in-out' src={Man} alt="" /></div>
                     <div><h1 className='mb-5 text-2xl' >Hi! I' m Navpreet Singh 👋</h1></div>
                     <div className='flex items-center justify-center'><h1 className='text-center text-7xl mb-6 animate-pulse  '>Front end web developer <br /> based in India</h1></div>
                     <div><h1 className='mb-4'>I am frontend developer from India. Developed many frontend projects. Currently learning MERN stack </h1></div>

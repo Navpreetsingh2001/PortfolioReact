@@ -6,7 +6,7 @@ function Mywork() {
             <div className=' w-[80%] flex flex-col justify-center items-center'>
 
                     <h3 className='text-xl'>My portfolio</h3>
-                    <h1 className='text-6xl mb-5'>My Latest work</h1>
+                    <h1 className='text-6xl mb-5 animate-bounce'>My Latest work</h1>
                 <div className='w-full flex justify-center items-center text-center mb-10'>
 
                     <p>
